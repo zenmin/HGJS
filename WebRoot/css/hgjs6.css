@@ -1,0 +1,80 @@
+/* CSS Document */
+.div1{
+	width:983px;
+	height:745px;
+	margin:auto;
+	padding-top:20px;
+}
+.left{
+	width:200px;
+	float:left;
+}
+.left_topimg{
+	width:74px;
+	height:18px;
+	background-image:url(../Images/gray.jpg);
+	background-repeat:no-repeat;
+	font-weight:bold;
+	color:#660D13;
+	font-family:ºÚÌå;
+	font-size:12px;
+	text-align:center;
+	line-height:18px;
+}
+.left_hr {
+	background-image:url(../Images/fengexian1.jpg);
+	width:155px;
+	height:2px;
+	background-size:155px 2px;
+}
+.left_ul1{
+	color:#9E875E;
+	font-weight:bold;
+	font-size:12px;
+}
+.letf_li1{
+	margin-bottom:5px;
+}
+.left_ul2{
+	font-size:12px;
+	list-style:none;
+	margin-left:-12px;
+	color:#9E875E;
+}
+.letf_li2{
+	margin-bottom:5px;
+	width:135px;
+}
+.center{
+	float:left;
+}
+.hr1{
+    width:2px;
+    height:745px;
+    margin-left:0px;
+    float:left;
+    border:none;
+    border-left:1px dotted black;
+
+}
+
+.right{
+	float:left;
+	width:740px;
+	margin-left:30px;
+}
+.left_hr1 {
+	background-image:url(../Images/fengexian.jpg);
+	width:740px;
+	height:2px;
+	background-repeat:repeat-y;
+	background-repeat:repeat-x;
+	background-size:745px 2px;
+}
+.table_th{
+	color:#C86B07;
+	padding-top:11px;
+}
+.right_table{
+	font-size:12px;
+}

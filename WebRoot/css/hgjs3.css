@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+.all {
+	width: 983px;
+	height: 760px;
+	margin: auto;
+	background-color: white;
+}
+
+.left {
+	width: 200px;
+	height: 748px;
+	float: left;
+}
+
+.left_block1 {
+	background-image: url(../Images/gray.jpg);
+	width: 65px;
+	height: 18px;
+	margin-left: 11px;
+	margin-top: 21px;
+	text-align: center;
+}
+
+.left_line1 {
+	width: 156px;
+	height: 2px;
+	background-image: url(../Images/fengexian.jpg);
+	margin-top: 1px;
+	margin-left: 11px;
+	background-size:156px 2px;
+}
+
+.left_block2 {
+	width: 140px;
+	height: 150px;
+	margin-left: 11px;
+	margin-top: 10px;
+	text-align: left;
+	font-size:14px;
+}
+
+.left_block2 ul {
+	color: #9E885F;
+}
+
+.left_block3 {
+	background-image: url(../Images/gray.jpg);
+	width: 65px;
+	height: 18px;
+	margin-left: 11px;
+	margin-top: 23px;
+	text-align: center;
+}
+
+.left_line2 {
+	width: 156px;
+	height: 2px;
+	background-image: url(../Images/fengexian.jpg);
+	margin-top: 1px;
+	margin-left: 11px;
+	background-size:156px 2px;
+}
+
+.left_block4 {
+	width: 149px;
+	height: 220px;
+	margin-left: 11px;
+}
+
+.right {
+	height: 748px;
+	width: 782px;
+	float: right;
+	margin-top: -10px;
+}
+
+.right_block1 {
+	color: #660D13;
+	width: 740px;
+	height: 18px;
+	background: url(../Images/gray.jpg) no-repeat;
+	float: left;
+	margin-top: 21px;
+	text-align: center;
+}
+
+.right_block1_1 {
+	width: 710px;
+	height: 18px;
+	text-align: right;
+	float: left;
+	margin-top: 11px;
+	padding-top: 0px;
+}
+
+.right_line1 {
+	height: 2px;
+	width: 740px;
+	background-image: url(../Images/fengexian.jpg);
+	background-size:740px 2px;
+	margin-top: 40px;
+}
+
+.right_block2 {
+	width: 710px;
+	height: 52px;
+	margin-top: 15px;
+}
+
+.right_block3 {
+	background-color: #F7F7F7;
+	margin-top: 1px;
+	height: 25px;
+	padding-top: 7px;
+	padding-bottom: -3px;
+	border-top: 1px #CC9966 dotted;
+	border-bottom: 1px #CC9966 dotted;
+}
+
+.right_block4 {
+	line-height: 25px;
+	margin-top: 20px;
+}
+
+.right_block5 {
+	margin-top: 135px;
+}
+
+.span_title {
+	float: right;
+}
+#news_hr{
+    width:2px;
+    height:700px;
+    float:left;
+    border:none;
+    border-left:1px dotted black;
+}

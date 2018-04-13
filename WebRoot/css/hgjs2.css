@@ -1,0 +1,152 @@
+@charset "utf-8";
+/* CSS Document */
+.all {
+	width: 983px;
+	height: 748px;
+	margin: auto;
+	background-color: white;
+}
+
+.left {
+	width: 200px;
+	height: 748px;
+	float: left;
+}
+
+.left_block1 {
+	background-image: url(../Images/gray.jpg);
+	width: 65px;
+	height: 18px;
+	margin-left: 11px;
+	margin-top: 21px;
+	text-align: center;
+}
+
+.left_line1 {
+	width: 120px;
+	height: 2px;
+	background-image: url(../Images/fengexian.jpg);
+	background-size:120px 2px;
+	margin-top: 1px;
+	margin-left: 11px;
+}
+
+.left_block2 {
+	width: 140px;
+	height: 150px;
+	margin-top: 10px;
+	text-align: left;
+	font-size:12px;
+	margin-left: -10px;
+}
+
+.left_block2 ul {
+	color: #9E885F;
+}
+
+.left_block3 {
+	background-image: url(../Images/gray.jpg);
+	width: 65px;
+	height: 18px;
+	margin-left: 11px;
+	margin-top: 23px;
+	text-align: center;
+}
+
+.left_line2 {
+	width: 156px;
+	height: 2px;
+	background-image: url(../Images/fengexian.jpg);
+	background-size:156px 2px;
+	margin-top: 1px;
+	margin-left: 11px;
+}
+
+.left_block4 {
+	width: 149px;
+	height: 220px;
+	margin-top: -15px;
+}
+
+.hr {
+	width: 2px;
+	height: 700px;
+	border: none;
+	border-left: 1px dotted #333;
+}
+
+.right {
+	height: 748px;
+	width: 775px;
+	float: right;
+}
+
+.right_block1 {
+	background-image: url(../Images/gray.jpg);
+	width: 65px;
+	height: 18px;
+	margin-top: 21px;
+	text-align: center;
+}
+
+.right_line1 {
+	height: 2px;
+	width: 735px;
+	background-image: url(../Images/fengexian.jpg);
+	background-size:735px 2px;
+	margin-top: 1px;
+}
+
+.right_block2 ul {
+	list-style: url(../Images/gif-0070.gif);
+}
+
+.right_block2 ul li {
+	width: 94%;
+	height: 20px;
+	border-bottom: 1px dotted #AE8F00;
+	margin-top: 5px;
+}
+
+.right_block2 {
+	height: 540px;
+	width: 782px;
+}
+
+.page a{
+	color:#661A00;
+	font-size:14px;
+}
+
+.page a:hover{
+     color: #9b8166;
+     text-decoration: underline;
+  
+}
+
+.page {
+    width: 750px;
+    text-align: right;
+    color:#661A00;
+    font-size:14px;
+}
+.span_time {
+	float: right;
+}
+
+#news_hr{
+    width:2px;
+    height:700px;
+    float:left;
+    border:none;
+    border-left:1px dotted black;
+}
+#contentUl a{
+	text-decoration: none;
+	color: #661A00;
+}
+#contentUl a:hover{
+    text-decoration: underline;
+    color: #9E885F;
+}
+

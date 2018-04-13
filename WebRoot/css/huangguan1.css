@@ -1,0 +1,145 @@
+.homepage{
+	width: 983px;
+	height: 748px;
+	margin: auto;
+	background-color: white;
+}
+.homepage_left{
+	width: 449px;
+	height: 748px;
+	float: left;
+}
+.homepage_left ul{
+	list-style-type: none;
+	width: 495px;
+
+}
+.homepage_left ul li{
+	width: 411px;
+	height: 100px;
+	margin-left: -30px;
+
+}
+.homepage_left ul li a{
+    text-decoration: none;
+    color: #660D13;
+
+}
+.homepage_left ul li a:hover{
+    text-decoration: underline;
+    color: #9b8166;
+
+}
+
+.homepage_left .left{
+	width: 65px;
+	height: 18px;
+	background-image: url(../Images/gray.jpg);
+	color: #660D13;
+	font-weight:bold;
+	font-size: 12px;
+	float: left;
+}
+.homepage_left ul li input{
+	margin-top: 4px;
+	float: right;
+
+}
+.homepage_left .xian{
+	width: 411px;
+	height: 3px;
+	background-image: url(../Images/fengexian.jpg);
+	margin-top: 0px;
+	float: left;
+
+}
+
+.homepage_left .right{
+	height:20px;
+	width: 380px;
+	float: left;
+	margin-top: 5px;
+	font-size: 13px;
+	color:#660D13;
+}
+/*中部水平线样式*/
+.homepage hr{
+	width: 0px;
+	height: 698px;
+	float: left;
+	border: none;
+	border-right:1px dotted;
+	border-right-color: #5f5555;
+}
+/*中右部样式*/
+.homepage_right{
+	width: 514px;
+	height: 748px;
+	float: left;
+	margin-left: 5px;
+}
+/*中部无需列表样式*/
+.homepage_right .right_ul1{
+	list-style-type: none;
+	width: 470px;
+	height: 25px;
+}
+/*中部上方样式*/
+.homepage_right .right_top{
+	width: 479px;
+	height: auto;
+	margin-left: -15px;
+	float: left;
+}
+.homepage_right ul li input{
+	margin-top: 4px;
+	float: right;
+}
+.homepage_right .left{
+	width: 65px;
+	height: 18px;
+	background-image: url(../Images/gray.jpg);
+	color: #660D13;
+	font-weight:bold;
+	font-size: 12px;
+	float: left;
+}
+.homepage_right .xian{
+	width: 479px;
+	height: 3px;
+	background-image: url(../Images/fengexian.jpg);
+	margin-top: 0px;
+	float: left;
+	}
+.homepage_right .right_ul2{
+	list-style-type: none;
+	width: 479px;
+	height: 660px;
+}
+.right_bottom{
+	width:190px;
+	height:126px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 38px;
+	border: 2px solid  #8B2252; 
+	
+}
+
+
+.right_ul2{
+	color: #9b8166;
+}
+.right_bottom_zi1{
+	font-size:12px;
+	float: left;
+	margin-left: 130px;
+	margin-top: 8px;
+}
+.right_bottom_zi2{
+	font-size:12px;
+	float: left;
+	margin-left: 210px;
+	margin-top: 8px;
+}
+

@@ -1,0 +1,104 @@
+body{
+	width: 100%;
+	height: 1141px;
+	background-image: url(../Images/28.gif);
+	padding-top: 10px;
+	background-repeat:repeat-x repeat-y;
+	
+}
+.cen{
+	background-color: #FFFFFF;
+	width: 981px;
+	margin-left: 135px;
+	border-left: 1px solid #cccccc;
+	border-right:1px solid #CCCCCC;
+	margin-left: auto;
+	margin-right: auto;
+}
+.cen_top_logo{
+	background-image: url(../Images/bg_top.jpg);
+	width: 972px;
+	margin-left: 3px;
+
+	
+}
+.cen_top_daohang{
+	background-color: #8f7c52;
+	height: 33px;
+	width: 972px;
+	margin-left: 3px;
+	z-index: 999;
+	margin-top: 0px;
+	
+}
+.cen_top_img{
+	height: 222px;
+	width: 972px;
+	margin-left: 3px;
+	background-color: #ebeae6;
+}
+.cen_top_img ul{
+    width: 972px;
+    margin-left: -40px;
+}
+
+.cen_top_img ul li{
+    height: 222px;
+    width: 972px;
+    background-color: #ebeae6;
+    list-style: none;
+}
+
+.cen_top_bottom{
+	height: 6px;
+	width: 972px;
+	
+	margin-left: 3px;
+	margin-top: 1px;
+	background-color: #d0cfcb;
+}
+.cen_top_logo_img1{
+	height: 44px;
+	width: 266px;
+	
+}
+
+.cen_top_daohang ul {
+	list-style: none;
+	float: right;
+	margin-bottom:0px;
+	margin-right: 16px;
+}
+.cen_top_daohang ul li {
+	float: left;
+	margin-left: 25px;
+	font-size: 11.5px;
+	line-height: 2px;
+}
+.cen_top_daohang a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.cen_top_daohang a:hover{
+	color:#333;
+}
+.cen_mind{
+	height: 748px;
+	width: 964px;
+	background-color: red;
+	margin-left: 11px;
+	margin-top: 8px;
+}
+.cen_foot{
+	width: 977px;
+	height: 35px;
+	background-image: url(../Images/bg_bottom.jpg);
+	text-align: center;
+	font-size: 12px;
+	float:left;
+	line-height: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: 3px solid white;
+	border-right: 3px solid white;
+}

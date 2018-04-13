@@ -1,0 +1,156 @@
+.product{
+	width: 983px;
+	height: 1020px;
+	margin: auto;
+	background-color: white;
+}
+.product_left{
+	width: 180px;
+	height: 748px;
+
+	float: left;
+}
+.product_left .ul1{
+	width: 180px;
+	height: 30px;
+	list-style-type: none;
+	margin-left: -30px;
+}
+.product_left .left{
+	width: 65px;
+	height: 18px;
+	background-image: url(../Images/gray.jpg);
+	color: #660D13;
+	font-weight:bold;
+	font-size: 12px;
+}
+.product_left .xian{
+	width: 150px;
+	height: 3px;
+	background-image: url(../Images/fengexian.jpg);
+	margin-top: 0px;
+	float: left;
+
+}
+.product_left .ul2{
+	width: 180px;
+	list-style-type: none;
+	margin-left: -20px;
+	margin-top: -10px;
+}
+.ul2 ul{
+	list-style-type: none;
+}
+
+.product hr{
+	width: 0px;
+	height: 900px;
+	float: left;
+	border: none;
+	border-right:1px dotted;
+	border-right-color: #5f5555;
+	margin-left: 5px;
+}
+.product_right{
+	width: 760px;
+	height: 748px;
+	float: left;
+	margin-left: 20px;
+}
+.product_right .xian{
+	width: 749px;
+	height: 3px;
+	background-image: url(../Images/fengexian.jpg);
+	margin-top: 0px;
+	float: left;
+	background-repeat: no-repeat;
+}
+.product_right .ul1{
+	width: 180px;
+	height: 30px;
+	list-style-type: none;
+	margin-left: -30px;
+}
+.product_right .left{
+	width: 65px;
+	height: 18px;
+	background-image: url(../Images/gray.jpg);
+	color: #660D13;
+	font-weight:bold;
+	font-size: 12px;
+}
+.right_search{
+	width: 749px;
+	height: 28px;
+	margin-top: -15px;
+	background-image: url(../Images/bg_search.jpg);
+	background-repeat-y: no-repeat;
+	margin-left: 10px;
+	
+
+}
+.right_search div{
+	width: 350px;
+	height: 28px;
+	margin: auto;
+}
+.right_search .inp1{
+	background-image: url(../Images/search_input.jpg);
+	width: 112px;
+	height: 11px;
+	border: none;
+	float: left;
+	margin-top: 11px;
+}
+.right_search .inp2{
+	width: 60px;
+	height: 15px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+.right_bottom{
+	float: left;
+	margin-left: 10px;
+	margin-top: 28px;
+	height: 117px;
+	width: 174px;
+	border: 2px solid #660D13;
+}
+.right_bottom_zi1{
+	float: left;
+	margin-left: 80px;
+	margin-top: 8px;
+	font-size: 12px;
+}
+.right_bottom_zi2{
+	float: left;
+	margin-left: 135px;
+	margin-top: 8px;
+	font-size: 12px;
+}
+.right_bottom_zi3{
+	float: left;
+	margin-left: 135px;
+	margin-top: 8px;
+	font-size: 12px;
+}
+.right_bottom_zi4{
+	float: left;
+	margin-left: 145px;
+	margin-top: 8px;
+	font-size: 12px;
+}
+.right_bottom_span{
+	font-size:12px;
+	margin-left:50px;
+	color:#660D13;
+}
+#help{
+	position: absolute;
+	right:1px;
+	top:10px;
+}
+	
+	
+}

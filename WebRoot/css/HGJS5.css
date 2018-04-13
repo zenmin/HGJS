@@ -1,0 +1,411 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+ 整体效果
+*/
+.div_center {
+	width: 983px;
+	height: 748px;
+	margin: auto;
+	background-color: white;
+}
+/*
+左半部分整体
+*/
+.div_center_left {
+	width: 195px;
+	height: 748px;
+}
+/*
+左半部分头部
+*/
+.center_left_top {
+	width: 65px;
+	height: 18px;
+	background-image: url(../Images/goodsShow/gray.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 9px;
+}
+/*
+左半部分头部字体
+*/
+.center_left_top span {
+	font-size: 12px;
+	margin-left: 4px;
+	color: #660D13;
+}
+/*
+左半部分分割线
+*/
+.center_left_cut-off {
+	width: 155px;
+	height: 2px;
+	float: left;
+	background-image: url(../Images/goodsShow/fengexian.jpg);
+	background-size: 155px 2px;
+	margin-top: 2px;
+	margin-left: 9px;
+}
+/*
+左半部分文字框
+*/
+.center_left_character {
+	height: 500px;
+	width: 182px;
+	float: left;
+	margin-top: 4px;
+	margin-left: 4px;
+}
+/*
+左半部分文字整体
+*/
+.center_left_character ul {
+	list-style: none;
+	height: 352px;
+	width: 182px;
+	float: left;
+	margin-top: -6px;
+}
+/*
+左半部分文字li格式
+*/
+.center_left_character ul li {
+	margin-top: 4px;
+	margin-left: -15px;
+	font-size: 12px;
+	font-family: 黑体;
+}
+/*
+左半部分文字前绿色图标格式
+*/
+.character1 {
+	height: 7px;
+	width: 4px;
+	background-image: url(../Images/goodsShow/list_green.gif);
+	float: left;
+	margin-left: -13px;
+	margin-top: 4px;
+}
+/*
+左半部分文字前橘色图标格式
+*/
+.character2 {
+	height: 7px;
+	width: 4px;
+	background-image: url(../Images/goodsShow/lsit_orange.gif);
+	float: left;
+	margin-left: 4px;
+	margin-top: 4px;
+}
+/*
+左半部分绿色图标对应文字颜色
+*/
+.char1 {
+	color: #9E875E;
+}
+/*
+左半部分橘色图标对应文字颜色
+*/
+.char2 {
+	color: #B17628;
+	margin-left: 10px;
+}
+/*
+中间分割线
+*/
+.hr {
+	width: 2px;
+	height: 700px;
+	float: left;
+	border: none;
+	border-left: 1px dotted #333;
+}
+/*
+右边整体
+*/
+.div_center_right {
+	width: 776px;
+	height: 600px;
+	float: left;
+}
+/*
+右边头部
+*/
+.center_right_top {
+	width: 65px;
+	height: 18px;
+	float: left;
+	background-image: url(../Images/goodsShow/gray.jpg);
+	margin-top: 15px;
+	margin-left: 25px;
+	font-weight: bold;
+	font-size: 14px;
+}
+/*
+右边头部文字
+*/
+.center_right_top span {
+	font-size: 12px;
+	margin-left: 4px;
+	color: #660D13;
+	font-weight: bold;
+}
+/*
+右边头部分割线
+*/
+.center_right_cut-off {
+	width: 740px;
+	height: 2px;
+	float: left;
+	background-image: url(../Images/goodsShow/fengexian.jpg);
+	background-size: 740px 2px;
+	margin-top: 1px;
+	margin-left: 25px;
+}
+/*
+右边头部搜索栏
+*/
+.center_right_enclosed {
+	height: 28px;
+	width: 749px;
+	float: left;
+	background-image: url(../Images/goodsShow/bg_search.jpg);
+	margin-top: 8px;
+	margin-left: 25px;
+}
+/*
+右边头部搜索栏文字
+*/
+.center_right_enclosed span {
+	float: left;
+	font-size: 12px;
+	margin-top: 10px;
+	margin-left: 177px;
+}
+/*
+右边头部搜索栏白色框
+*/
+.center_right_enclosed1 {
+	height: 12px;
+	width: 112px;
+	background-image: url(../Images/goodsShow/search_input.jpg);
+	margin-left: 240px;
+	margin-top: 10px;
+}
+/*
+右边头部搜索栏搜索图标
+*/
+.center_right_enclosed2 {
+	height: 18px;
+	width: 60px;
+	background-image: url(../Images/goodsShow/search.gif);
+	margin-left: 357px;
+	margin-top: -15px;
+}
+/*
+欧式休闲整体
+*/
+.center_right_lpicture {
+	height: 385px;
+	width: 400px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 79px;
+}
+/*
+欧式休闲整体消除li小点
+*/
+.center_right_lpicture ul {
+	list-style: none;
+}
+/*
+欧式休闲桌椅文字格式
+*/
+.closed1 {
+	color: #937518;
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+/*
+欧式休闲下图片设置
+*/
+.center_right_lpicture1 {
+	height: 301px;
+	width: 400px;
+}
+/*
+市场价文字格式
+*/
+.closed2 {
+	font-size: 14px;
+	margin-top: 20px;
+}
+/*
+价格字体大小及颜色设置
+*/
+.closed3 {
+	font-size: 14px;
+	color: #C40909;
+}
+/*
+查看详情的字体设置
+*/
+.closed4 {
+	font-size: 14px;
+	color: #661900;
+	float: right;
+	margin-top: -17px;
+	margin-right: -10px;
+}
+/*
+底部数字框设置
+*/
+.center_right_bottom {
+	width: 188px;
+	height: 11px;
+	float: left;
+	background-image: url(../Images/goodsShow/page_num.jpg);
+	margin-left: 230px;
+	margin-top: 52px;
+}
+/*
+右边展示图框整体
+*/
+.center_right_rpicture {
+	margin-left: 180px;
+	margin-top: -399px;
+	width: 150px;
+	height: 525px;
+	float: left;
+}
+/*
+右边第一个图标
+*/
+.center_right_rpicture1 {
+	height: 20px;
+	width: 25px;
+	background-image: url(../Images/goodsShow/prev.jpg);
+	margin-left: 64px;
+}
+/*
+右边第二个图标
+*/
+.center_right_rpicture2 {
+	margin-top: 15px;
+	height: 92px;
+	width: 150px;
+	overflow: hidden;
+}
+
+
+/*
+右边第三个图标
+*/
+.center_right_rpicture3 {
+	margin-top: 15px;
+	height: 92px;
+	overflow: hidden;
+	width: 150px;
+}
+/*
+右边第四个图标
+*/
+.center_right_rpicture4 {
+	margin-top: 15px;
+	height: 92px;
+	width: 150px;
+	overflow: hidden;
+}
+.imgli{
+	margin-top: 15px;
+    height: 92px;
+    width: 150px;
+    overflow: hidden;
+    cursor: pointer;
+}
+/*
+右边第五个图标
+*/
+.center_right_rpicture5 {
+	margin-top: 15px;
+	height: 92px;
+	width: 150px;
+	overflow: hidden;
+}
+/*
+右边第六个图标
+*/
+.center_right_rpicture6 {
+	margin-top: 15px;
+	height: 20px;
+	width: 25px;
+	background-image: url(../Images/goodsShow/next.jpg);
+	margin-left: 64px;
+}
+
+.center_right_rpicture7 {
+	margin-top: 15px;
+	height: 92px;
+	width: 150px;
+	margin-left: 64px;
+	overflow: hidden;
+}
+
+.center_right_rpicture8 {
+	margin-top: 15px;
+	height: 92px;
+	width: 150px;
+	margin-left: 64px;
+	overflow: hidden;
+}
+
+.img_ul {
+	list-style: none;
+	width: 150px;
+	height: 428px;
+	top:-10px;
+	position: relative;
+}
+
+.img_ul li {
+	margin-left: -40px;
+}
+
+#out_ul {
+	width: 150px;
+	height: 428px;
+	overflow: hidden;      /*  当元素超出这个div的时候  让他隐藏*/
+	
+}
+.right_search{
+    width: 749px;
+    height: 28px;
+    background-image: url(../Images/bg_search.jpg);
+    background-repeat-y: no-repeat;
+    margin-left: 30px;
+    
+
+}
+.right_search div{
+    width: 350px;
+    height: 28px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.right_search .inp1{
+    background-image: url(../Images/search_input.jpg);
+    width: 112px;
+    height: 11px;
+    border: none;
+    float: left;
+    margin-top: 11px;
+}
+.right_search .inp2{
+    width: 60px;
+    height: 15px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+}
