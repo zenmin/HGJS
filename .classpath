@@ -53,5 +53,8 @@
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/standard.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/validation-api-1.1.0.CR1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
